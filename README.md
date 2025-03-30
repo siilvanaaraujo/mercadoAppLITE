@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mercado Online
 
 Este é um projeto de mercado online com funcionalidades de cadastro de usuários, login e cadastro de produtos.
@@ -24,3 +25,4 @@ abre novo terminal
 cd frontend    
 npm start 
 y
+
