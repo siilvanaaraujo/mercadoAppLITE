@@ -10,19 +10,21 @@ Este é um projeto de mercado online com funcionalidades de cadastro de usuário
 - **Web Server**: Node.js
 
 ## Passos para instalação 
-SOMENTE NA PRIMEIRA VEZ 
-pip install -r requirements.txt
-cd frontend    
-npm install
+- **SOMENTE NA PRIMEIRA VEZ** 
+- **pip install -r requirements.txt**
+- **cd frontend**    
+- **npm install**
 
-----------------------------------------
 
-abre novo terminal 
-python run.py
+-------------------------------------
+## Apos instalação
+- **abre novo terminal**
+- **python run.py**
 
-abre novo terminal 
 
-cd frontend    
-npm start 
-y
+- **abre novo terminal** 
+- **cd frontend**
+- **npm start**
+- **y**
+
 
